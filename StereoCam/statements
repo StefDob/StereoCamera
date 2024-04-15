@@ -1,0 +1,1 @@
+build/object_detection_demo -i 0 -at yolo -m /home/leukos/object_detection_demo/yolo_v3.xml -d CPU -stereo 2

@@ -1,0 +1,2 @@
+/usr/bin/ar qc libGeneralCapture.a  CMakeFiles/GeneralCapture.dir/src/GeneralCapture.cpp.o
+/usr/bin/ranlib libGeneralCapture.a

@@ -1,0 +1,24 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/leukos/StereoCam/utils/src/GeneralCapture.cpp
+atomic
+-
+chrono
+-
+memory
+-
+numeric
+-
+queue
+-
+string
+-
+GeneralCapture.hpp
+/home/leukos/StereoCam/utils/src/GeneralCapture.hpp
+

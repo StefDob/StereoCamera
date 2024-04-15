@@ -1,0 +1,12 @@
+[
+{
+  "directory": "/home/leukos/StereoCam/build",
+  "command": "/usr/bin/g++   -isystem /usr/local/include/opencv4 -I/home/leukos/StereoCam/utils/include   -pthread -g   -std=gnu++14 -o CMakeFiles/simple-demo.dir/main.cpp.o -c /home/leukos/StereoCam/main.cpp",
+  "file": "/home/leukos/StereoCam/main.cpp"
+},
+{
+  "directory": "/home/leukos/StereoCam/build/utils",
+  "command": "/usr/bin/g++   -I/home/leukos/StereoCam/utils/include -isystem /usr/local/include/opencv4   -pthread -g   -std=gnu++14 -o CMakeFiles/utils.dir/src/GeneralCapture.cpp.o -c /home/leukos/StereoCam/utils/src/GeneralCapture.cpp",
+  "file": "/home/leukos/StereoCam/utils/src/GeneralCapture.cpp"
+}
+]
